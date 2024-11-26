@@ -38,7 +38,7 @@ Input Example: (62,0,0,140,268,0,0,160,0,3.6,0,2,2)
 Prediction Output: "The Person does not have Heart Disease"
 How to Run
 Clone the repository:
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/ansh-ban/heart-disease-prediction.git
 Install the required libraries:
 pip install numpy pandas scikit-learn
 Run the script:
